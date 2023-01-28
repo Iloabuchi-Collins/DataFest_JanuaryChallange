@@ -19,3 +19,6 @@
   6. Activate the virtual environment :   `env\Scripts\activate`
   
   7. Install dependencies :  `pip install -r requirements.txt`
+
+  8. Open VS Code or any text editor of your choice and run the jupyter notebook. 
+  Note: you might be prompted to install some extensions to properly read the jupyter notebook. Just install whatever extension the editor needs.
